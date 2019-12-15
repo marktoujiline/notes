@@ -27,4 +27,21 @@ ARR_DES_ASSIGN := ASSIGN [VAR,*] = ARR_EXPR
                 | ASSIGN [VAR,*, ...VAR] = ARR_EXPR
 OBJ_DES_ASSIGN := ASSIGN {VAR,*} = OBJ_EXPR
                 | ASSIGN {VAR,*, ...VAR} = OBJ_EXPR
+
+// FUNCTIONS (ES6 Arrow)
+FUNC_ARG       := VAR | (VAR*)
+RET_STATE      := return EXPR
+FUNC_RET       := EXPR | {STATE*; RET_STATE}
+FUNC           := FUNC_ARG => FUNC_RET
+
+// STATEMENETS
+STATE     := CONST_ASSIGN
+           | LET_ASSIGN
+           | VAR_ASSIGN
+           | EXIST_ASSIGN
+           | ARR_DES_ASSIGN
+           | OBJ_DES_ASSIGN
+           | RET_STATE
+           | EXPR
 ```
+
