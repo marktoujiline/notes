@@ -83,8 +83,38 @@ const user = {
     }
 }
 ```
-We want to get `name` and `dob` with destructuring. You can still do this, but you have to provide the path from which to destructure.
+We want to get `name` and `dob`. Let's start with the most basic solution
 ```
-const {public: {name}, private: {dob}} = user;
+// First try
+const name = user.public.name;
+const dob = user.private.dob;
+```
+Notice how the paths to the object are no longer the same (`user.public` vs `user.private`). We can convert the above to using destructuring like this.
+```
+const { name } = user.public;
+const { dob } = user.private;
+```
+Not bad, but we'd like to ultimately do this on one line. First though, let's think of a different way to destructure:
+```
+const { public, private } = user; // start by getting public and private
+const { name } = public; // then get name from public
+const { dob } = private; // then get dob from private
+```
+We can replace the second line by destructuring `public` directly where it is being created:
+```
+const { public: {name}, private} = user;
+const { dob } = private;
+```
+The same technique can be applied to `dob`.
+```
+const { public: { name }, private: { dob } } = user;
 ```
 Note that `public` and `private` are <b>not</b> variables that become available to you. They just specify where `name` and `dob` should be extracted from.
+
+You can keep adding to the path if getting a field from a deeply nested object:
+```
+const { public: {info: {name: {first}}}} = user;
+
+// equivalent to
+const first = user.public.info.name;
+```
