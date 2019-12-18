@@ -43,5 +43,20 @@ STATE     := CONST_ASSIGN
            | OBJ_DES_ASSIGN
            | RET_STATE
            | EXPR
+
+// OBJECTS
+KEY_VALUE         := VAR: EXPR,
+OBJ_SPREAD        := ...OBJ_EXPR
+OBJ_SPREAD_OPT    := KEY_VALUE | OBJ_SPREAD
+OBJ_EXPR          := {OBJ_SPREAD_OPT*}
+
+// EXPRESSIONS
+PRIMITIVES     := NUM 
+                | STR 
+                | BOOL 
+                | VAR 
+                | FUNC
+
+
 ```
 
