@@ -2,9 +2,10 @@
 
 ## val Function
 * Limited to 22 parameters because converted to scala.Function0, Function1, ..., Function22.
-* Because of scala.Function0, has access to `antThen`, `compose`, `toString`.
+* Because of scala.Function0, has access to `andThen`, `compose`, `toString`.
 * Can use case expressions, see [pattern-matching](./pattern-match.md)
 * Can enter directly in REPL
+* Object with apply method
 
 ### Java Implementation
 ```
@@ -76,6 +77,43 @@ class A {
 
 val intLength = (new A()).lengthOfThing[Int]
 ```
+
+### Eta Expansion
+Converting method into function.
+```
+def a = 5
+val f = a _ // f: function returning 5
+val g = a // g: 5
+
+def b(a: Int) = a
+val h = b // missing argument list for method b in object, 
+// Unapplied methods are only converted to functions when a function type is expected.
+You can make this conversion explicit by writing `b _` or `b(_)` instead of `b`
+val h = b _ // explicit eta expansion
+val i: Int => Int = b // implicit eta expansion via types
+```
+NOTE: Explicit eta expansion is being removed in Dotty. Eta expansion for multiple arguments will happen automatically.
+
+You can pass method as function argument because of implicit eta expansion via types.
+
+## def vs val vs lazy val for assigning variables
+Def variables are re-evaluated every time they are accessed.
+
+Val variables are evaluated once and reused.
+
+Lazy val variables are evluated only when/if they are accessed.
+```
+// essentially all the same
+def a = 5
+val a = 5
+lazy val a = 5
+
+// very different
+def a = complexComputation() // evaluated every time accessed
+val a = complexComputation() // evaluated once when line reached
+lazy val a = complexComputation() // evaluated once when accessed first time
+```
+
 
 # References
 https://alvinalexander.com/scala/fp-book-diffs-val-def-scala-functions
