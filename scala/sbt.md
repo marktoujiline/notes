@@ -33,6 +33,7 @@ It automatically downloads the correct version of Scala.
 > run                // run application
 > reload             // rereads build.sbt configs
 > test               // run tests
+> testOnly com.Spec  // run specifc spec
 > clean              // delete target/
 > ~testQuick         // run tests in watch mode
 > console            // enter REPL mode
