@@ -1,0 +1,238 @@
+INFO  time: initialize in 0.25s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 15, 2019 5:50:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:15:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:15:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:15:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:15:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:19:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:19:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:19:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 15, 2019 6:56:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.32s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 16, 2019 5:41:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.33s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.42s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.25s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 19, 2019 10:48:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 19, 2019 10:48:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 19, 2019 11:53:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 19, 2019 11:53:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.42s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 20, 2019 11:49:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 20, 2019 11:49:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 20, 2019 11:49:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 20, 2019 11:55:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 21, 2019 12:00:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 21, 2019 12:00:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/DefFunc.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/DefFunc.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/DefFunc.scala
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/DefFunc.scala
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/ValFunc.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/ValFunc.scala
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/ValFunc.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/PatternMatch.scala
+Dec 21, 2019 11:29:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 417
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/PatternMatch.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/PatternMatch.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/PatternMatch.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/PatternMatch.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/PatternMatch.scala
+Dec 21, 2019 11:42:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 21, 2019 11:42:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/code/CaseClass.scala
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 22, 2019 12:21:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 22, 2019 12:21:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/Fib.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/Fib.scala
+something's wrong: no file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/Fib.scala in A => BRangePosition(file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/Fib.scala, 173, 175, 179)
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/Fib.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala
+something's wrong: no file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala in Memo[Int,<error>]RangePosition(file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala, 203, 203, 222)
+something's wrong: no file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala in Memo[Int,<error>]RangePosition(file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala, 203, 203, 215)
+something's wrong: no file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala in Memo[Int,<error>]RangePosition(file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala, 203, 203, 216)
+something's wrong: no file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala in Memo[Int,Int]RangePosition(file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala, 203, 203, 217)
+something's wrong: no file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala in Memo[Int,Int]RangePosition(file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala, 203, 203, 217)
+something's wrong: no file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala in Memo[Int,Int]RangePosition(file:///Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala, 203, 203, 217)
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/MemoFib.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.38s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/TripleQuestion.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/TripleQuestion.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/TripleQuestion.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.26s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Dec 24, 2019 12:26:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 24, 2019 12:26:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 24, 2019 12:26:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.31s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/TripleQuestion.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.29s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/CurryCaseClass.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/CurryCaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/CurryCaseClass.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/CaseClassMethods.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/CaseClassMethods.scala
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/snippets/CaseClassMethods.scala
+Dec 27, 2019 10:05:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 10:05:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 10:50:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 10:50:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 10:50:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 11:00:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 11:00:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 11:00:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 27, 2019 11:00:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  time: initialize in 0.29s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.32s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.27s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.28s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.32s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.31s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.26s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.39s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.28s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace '/Users/mark.toujiline/code/marktoujiline/notes'
+INFO  time: initialize in 0.27s
+WARN  resetting database: /Users/mark.toujiline/code/marktoujiline/notes/.metals/metals.h2.db
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace '/Users/mark.toujiline/code/marktoujiline/notes'
+INFO  time: initialize in 0.3s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.33s
+WARN  resetting database: /Users/mark.toujiline/code/marktoujiline/notes/.metals/metals.h2.db
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.27s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.25s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/doobie/doobie-recipes/src/main/scala/example/Hello.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/doobie/doobie-recipes/src/main/scala/example/Hello.scala
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/doobie/doobie-recipes/src/main/scala/example/Hello.scala
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/doobie/doobie-recipes/src/main/scala/example/Hello.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.25s
+WARN  no build tool detected in workspace '/Users/mark.toujiline/code/marktoujiline/notes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/mark.toujiline/code/marktoujiline/notes/scala/doobie/doobie-recipes/src/main/scala/example/Hello.scala
+Jan 24, 2020 1:44:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals

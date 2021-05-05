@@ -1,6 +1,6 @@
 import Dependencies._
 
-ThisBuild / scalaVersion     := "2.12.10"
+ThisBuild / scalaVersion     := "2.11.2"
 ThisBuild / version          := "0.1.0-SNAPSHOT"
 ThisBuild / organization     := "com.example"
 ThisBuild / organizationName := "example"
@@ -12,12 +12,11 @@ lazy val root = (project in file("."))
   )
 
 lazy val doobieVersion = "0.7.1"
-lazy val postgisVersion = "2.3.0"
+
 libraryDependencies ++= Seq(
   "org.tpolecat" %% "doobie-core"     % doobieVersion,
   "org.tpolecat" %% "doobie-postgres" % doobieVersion,
-  "org.tpolecat" %% "doobie-specs2"   % doobieVersion,
-  "net.postgis" % "postgis-jdbc" % postgisVersion
+  "org.tpolecat" %% "doobie-specs2"   % doobieVersion
 )
 
 libraryDependencies += "joda-time" % "joda-time" % "2.10.5"
